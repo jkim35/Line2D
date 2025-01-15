@@ -5,9 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "jdk",
+            "type": "java",
+            "name": "Launch testLine2d",
             "request": "launch",
-            "name": "Launch Java App"
+            "mainClass": "testLine2d.java",
+            "projectName": "Line2D"
         }
     ]
 }
